@@ -1,0 +1,10 @@
+
+body {
+  background-color: lightgrey;
+}
+
+#headline {
+  font-family: monospace;
+  color: blue;
+  background-color: darkgray;
+}
